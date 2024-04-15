@@ -1,0 +1,476 @@
+{
+    "products": [
+      {
+        "category": "Coffee Tables",
+        "items": [
+          {
+            "name": "Mensa Coffee Table",
+            "price": 360,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/MENSA - COFFEE TABLE.jpg"
+          },
+          {
+            "name": "Mensa Coffee Table",
+            "price": 360,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Black Wood",
+            "woodColor": "#0A0401",
+            "imagePath": "./images/MENSA - COFFEE TABLE (1).jpg"
+          },
+          {
+            "name": "Mensa Coffee Table",
+            "price": 360,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/MENSA - COFFEE TABLE (2).jpg"
+          },
+          {
+            "name": "Stella Coffee Table - 1 Unit",
+            "price": 210,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/STELLA LIFT-TOP 1.jpg"
+          },
+          {
+            "name": "Stella Coffee Table - 2 Units",
+            "price": 420,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA LIFT-TOP 2 CLOSED CONFIG 2.jpg"
+          },
+          {
+            "name": "Pluto Coffee Table",
+            "price": 135,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Black Wood",
+            "woodColor": "#0A0401",
+            "imagePath": "./images/PLUTO - COFFEE TABLE.webp"
+          },
+          {
+            "name": "Stella Coffee Table - 3 Units",
+            "price": 630,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_4_28381113.webp"
+          },
+          {
+            "name": "Pluto Coffee Table",
+            "price": 135,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Espresso",
+            "woodColor": "#442109",
+            "imagePath": "./images/tinywow_5_28381124.webp"
+          },
+          {
+            "name": "Stella Coffee Table - 1 Unit",
+            "price": 210,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA LIFT-TOP 1 CLOSED CONFIG 1 (1).webp"
+          },
+          {
+            "name": "Stella Coffee Table - 2 Units",
+            "price": 420,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/tinywow_6_28381143.webp"
+          },
+          {
+            "name": "Stella Coffee Table - 3 Units",
+            "price": 630,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA LIFT-TOP 3 CLOSED CONFIG 3.webp"
+          },
+          {
+            "name": "Mistral Rectangle Coffee Table",
+            "price": 380,
+            "financingOption": true,
+            "customizable": true,
+            "isOutdoor": true,
+            "woodType": "sandstone",
+            "woodColor": "#ECEBE7",
+            "imagePath": "./images/CoffeeTable-Mistral-Rectangle.webp"
+          },
+          {
+            "name": "Mistral Square Coffee Table",
+            "price": 340,
+            "financingOption": true,
+            "customizable": true,
+            "isOutdoor": true,
+            "woodType": "pebble",
+            "woodColor": "#5A5A5A",
+            "imagePath": "./images/CoffeeTable-Mistral-Square.webp"
+          }
+        ]
+      },
+      {
+        "category": "Side Tables",
+        "items": [
+          {
+            "name": "Mensa Side Table",
+            "price": 250,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#1DDB586",
+            "imagePath": "./images/Tables-Side-Mensa-Oak.webp"
+          },
+          {
+            "name": "Mensa Side Table",
+            "price": 250,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Black Wood",
+            "woodColor": "#0A0401",
+            "imagePath": "./images/Tables-Side-Mensa-Black.webp"
+          },
+          {
+            "name": "Mensa Side Table",
+            "price": 250,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/Tables-Side-Mensa-Walnut.webp"
+          },
+          {
+            "name": "Solis Adjustable Table",
+            "price": 180,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Eclipse",
+            "woodColor": "#1D1D1D",
+            "imagePath": "./images/tinywow_7_28381247.webp"
+          },
+          {
+            "name": "Solis Adjustable Table",
+            "price": 180,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Twilight",
+            "woodColor": "#999999",
+            "imagePath": "./images/Solis Adjustable Table.webp"
+          },
+          {
+            "name": "Solis Adjustable Table",
+            "price": 180,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Solstice",
+            "woodColor": "#F8F8F8",
+            "imagePath": "./images/tinywow_9_28381369.webp"
+          },
+          {
+            "name": "Stella Coffee Table - 1 Unit",
+            "price": 210,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA LIFT-TOP 1 CLOSED CONFIG 1 (1).webp"
+          },
+          {
+            "name": "Stella Coffee Table - 1 Unit",
+            "price": 210,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_1_28381075.webp"
+          },
+          {
+            "name": "Pluto Side Table",
+            "price": 85,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Espresso",
+            "woodColor": "#442109",
+            "imagePath": "./images/tinywow_10_28381395.webp"
+          },
+          {
+            "name": "Pluto Side Table",
+            "price": 85,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Black Wood",
+            "woodColor": "#0A0401",
+            "imagePath": "./images/tinywow_11_28381418.webp"
+          },
+          {
+            "name": "Stella Media Unit - 1 Unit | No Door",
+            "price": 145,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA TV 1 HOLE.webp"
+          },
+          {
+            "name": "Stella Media Unit - 1 Unit | No Door",
+            "price": 145,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/STELLA TV 1 HOLE (2).webp"
+          },
+          {
+            "name": "Stella Media Unit - 1 Unit | With Door",
+            "price": 165,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA TV 1 DOOR.webp"
+          },
+          {
+            "name": "Stella Media Unit",
+            "price": 165,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_12_28381421 (1).webp"
+          },
+          {
+            "name": "Mistral End Table",
+            "price": 250,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "sandstone",
+            "woodColor": "#ECEBE7",
+            "imagePath": "./images/SideTable-Mistral-End.webp"
+          },
+          {
+            "name": "Mistral End Table",
+            "price": 250,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "pebble",
+            "woodColor": "#5A5A5A",
+            "imagePath": "./images/MISTRAL 2024 - END TABLE.webp"
+          }
+        ]
+      },
+      {
+        "category": "Media Units",
+        "items": [
+          {
+            "name": "Stella Media Unit - Set Of 3",
+            "price": 475,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/tinywow_13_28381505.webp"
+          },
+          {
+            "name": "Stella Media Unit - Set Of 2",
+            "price": 330,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_14_28381511.webp"
+          },
+          {
+            "name": "Stella Media Unit",
+            "price": 165,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_12_28381421 (1).webp"
+          },
+          {
+            "name": "Stella Media Unit - 1 Unit | No Door",
+            "price": 145,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/STELLA TV 1 HOLE (1).webp"
+          },
+          {
+            "name": "Stella Media Unit - 2 Units",
+            "price": 310,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA TV 2 HOLE-DOOR.webp"
+          },
+          {
+            "name": "Stella Media Unit - 2 Units | No Doors",
+            "price": 290,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/STELLA TV 2 HOLE.webp"
+          },
+          {
+            "name": "Stella Media Unit - Set Of 3",
+            "price": 475,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_15_28381520.webp"
+          },
+          {
+            "name": "Stella Media Unit -  4 Units | No Doors",
+            "price": 435,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA TV 3 HOLE.webp"
+          },
+          {
+            "name": "Stella Media Unit - 4 Units",
+            "price": 620,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/tinywow_16_28381530.webp"
+          },
+          {
+            "name": "Stella Media Unit - 4 Units | No Doors",
+            "price": 580,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/STELLA TV 4 HOLE.webp"
+          },
+          {
+            "name": "Stella Media Unit - 2 Units",
+            "price": 310,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/STELLA TV 2 DOOR-HOLE.webp"
+          },
+          {
+            "name": "Stella Media Unit - Set Of 4",
+            "price": 620,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA TV 4 DOOR-HOLE-HOLE-DOOR.webp"
+          },
+          {
+            "name": "Stella Media Unit - 3 Units | With Doors",
+            "price": 495,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/STELLA TV 3 DOOR.webp"
+          },
+          {
+            "name": "Stella Media Unit - 4 Units | With Doors",
+            "price": 660,
+            "financingOption": true,
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/STELLA TV 4 DOOR.webp"
+          }
+        ]
+      },
+      {
+        "category": "Table Sets",
+        "items": [
+          {
+            "name": "Pluto Table Set | 1 Coffee Table & 1 Side Table",
+            "price": 195,
+            "discount": "Save 10%",
+            "customizable": true,
+            "woodType": "Black Wood",
+            "woodColor": "#0A0401",
+            "imagePath": "./images/tinywow_17_28385269.webp"
+          },
+          {
+            "name": "Pluto Table Set | 1 Coffee Table & 2 Side Tables",
+            "price": 255,
+            "discount": "Save 15%",
+            "customizable": true,
+            "woodType": "Espresso",
+            "woodColor": "#442109",
+            "imagePath": "./images/tinywow_17_28385269.webp"
+          },
+          {
+            "name": "Pair of Solis Adjustable Tables",
+            "price": 320,
+            "discount": "Save 10%",
+            "customizable": true,
+            "woodType": "Eclipse",
+            "woodColor": "#1D1D1D",
+            "imagePath": "./images/ECLIPSE.webp"
+          },
+          {
+            "name": "Stella Table Set | 2-Unit Media & 2-Unit Coffee Table",
+            "price": 505,
+            "discount": "Save 15%",
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/tinywow_20_28385292.webp"
+          },
+          {
+            "name": "Stella Table Set | 2-Unit Media & 1 Side Table",
+            "price": 465,
+            "discount": "Save 10%",
+            "customizable": true,
+            "woodType": "Walnut",
+            "woodColor": "#582F11",
+            "imagePath": "./images/tinywow_21_28385302.webp"
+          },
+          {
+            "name": "Stella Table Set | 3-Unit Media & 2-Unit Coffee Table",
+            "price": 715,
+            "discount": "Save 20%",
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_22_28385308.webp"
+          },
+          {
+            "name": "Stella Table Set | 3-Unit Media & 1 Side Table",
+            "price": 580,
+            "discount": "Save 15%",
+            "customizable": true,
+            "woodType": "Oak",
+            "woodColor": "#DDB586",
+            "imagePath": "./images/tinywow_23_28385315.webp"
+          }
+        ]
+      }
+    ]
+  }
